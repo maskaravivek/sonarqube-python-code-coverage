@@ -1,0 +1,4 @@
+.coverage
+coverage.xml
+.scannerwork/
+__pycache__/
